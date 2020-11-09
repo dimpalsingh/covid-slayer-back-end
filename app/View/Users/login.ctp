@@ -1,4 +1,4 @@
 <?php
 	//echo json_encode(compact('user'));
-	echo json_encode($user1);
+	echo json_encode($response);
 ?>
