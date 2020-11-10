@@ -1,6 +1,7 @@
 # Covid Slayer Game Back End
 
-Installation Steps:
+Steps to deploy locally:
+
 1. Download and install XAMPP 5.6.3(for windows) Server from https://www.apachefriends.org/
 2. Download the zip file for repository and unzip it
 3. Copy the downloaded folder in C:\Program Files (x86)\xampp\htdocs
